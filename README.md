@@ -24,4 +24,4 @@ TTCTGGGAA ... and few more
 Requires three arguments a fasta file, a gene info file (bed file), chromosome number 
                                             _____________________________________________
                                             $  python3 chromosome.fa zebra_output.txt 7 
-                                            _____________________________________________
+                                     
