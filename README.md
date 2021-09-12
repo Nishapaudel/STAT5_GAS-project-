@@ -5,7 +5,7 @@ Finally, it generates the output file. A sample output file is also shown.
 Particularly, I made this code for my friend for his PhD.
 It fetches the match.group by this python RegEx TTC[TC][ATGCN][GA]GAA
 Examples of sequences
- TTCTGGGAA
+ <br>TTCTGGGAA
   TTCTGGGAA
   TTCTGGGAA
   TTCTGGGAA
