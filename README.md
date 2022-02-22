@@ -5,22 +5,22 @@ Finally, it generates the output file. A sample output file is also shown.
 Particularly, I made this code for my friend for his PhD.
 It fetches the match.group by this python RegEx TTC[TC][ATGCN][GA]GAA
 Examples of sequences
- <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA
-  <br>TTCTGGGAA ... and few more
+ <br>TTCAGGGAA
+  <br>TTTTAGGAA
+  <br>TTCGGGGAA
+  <br>TTTTAGGAA
+  <br>TTCTNGGAA
+  <br>TTTTAAGAA
+  <br>TTCTTGAAA
+  <br>TTTTGGGAA
+  <br>TTCTCGAAA
+  <br>TTTTNGAAA
+  <br>TTCTAGGAA
+  <br>TTTTTGAAA
+  <br>TTCTGGAAA
+  <br>TTTTCGAAA
+  <br>TTCTNGAAA
+  <br>TTTTGGGAA ... and few more
   <br>Requires three arguments a fasta file, a gene info file (bed file), chromosome number 
                                             _____________________________________________
                                             $  python3 chromosome.fa zebra_output.txt 7 
